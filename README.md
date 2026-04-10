@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/vrecs logo.png" alt="Sublime's custom image"/>
+  <img src="assets/logo.png" style="height:200px" alt="Vrecs logo"/>
 </p>
 
 
