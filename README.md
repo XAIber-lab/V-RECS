@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/vrecs logo.png" alt="Sublime's custom image"/>
+</p>
+
+
 # V-RECS: a NL2Vis Recommender for Chart Generation with Explanations, Captioning, and Suggestions
 
 This repository contains code, data, and resources necessary for replicating the experiments and testing the model locally. The demo application provides a hands-on way to interact with the model, allowing users to test its capabilities in generating controlled text outputs. The repository serves as a comprehensive resource for researchers and developers interested in exploring the implementation and potential applications of the proposed approach.
